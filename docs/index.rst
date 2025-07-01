@@ -4,7 +4,7 @@ How to Log In Your Xfinity Account Securely? 🔐📲
 Accessing your **Xfinity account** allows you to manage your internet, TV, mobile, and billing services with ease. Whether you're checking your data usage, paying a bill, or updating your preferences, knowing how to **log in your Xfinity account securely** is essential for protecting your information and enjoying a smooth experience. 🛡️
 
 
-  .. image:: start.png
+  .. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
